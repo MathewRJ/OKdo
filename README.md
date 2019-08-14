@@ -12,7 +12,9 @@ Structure:
 ├── records
     └── board
         └── okdo_ublox_odin_w2.yaml
+		
 ├── source
     └── board
         └── okdo_ublox_odin_w2.c
+		
 ├── projects.yaml
